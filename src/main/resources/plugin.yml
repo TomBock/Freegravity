@@ -5,3 +5,7 @@ prefix: [Grav]
 softdepend: [WorldEdit]
 authors: [CybiDuck, starduck13]
 description: A project to influence the gravity within the game.
+commands:
+    gravity:
+       description: Manipulate gravity
+       usage: </gravity>
