@@ -1,0 +1,7 @@
+name: Freegravity
+version: ${project.version}
+main: de.cybiduck.freegravity.Freegravity
+prefix: [Grav]
+softdepend: [WorldEdit]
+authors: [CybiDuck, starduck13]
+description: A project to influence the gravity within the game.
